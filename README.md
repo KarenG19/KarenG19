@@ -1,15 +1,13 @@
-## Sobre mi :woman:
+# 💫 About Me:
+Hi, I'm Karen. I'm a Systems and Computer Engineering student at Universidad Tecnológica de Pereira. I'm interested in web development, specifically frontend development. I'm currently learning React JS.
 
-Hola soy Karen, tengo 21 años. Soy estudiante de Ingeniería de Sistemas y Computación en la Universidad Tecnológica de Pereira. Me interesa el desarrollo web en el área del frontend, actualmente estoy aprendiendo React JS.
 
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karen-grajales-6743631b8/) 
 
-## Tecnologías :computer:
-![image](https://user-images.githubusercontent.com/69874524/226083497-5c6d2727-5299-49a1-b945-67d8e0e41377.png)
-![image](https://user-images.githubusercontent.com/69874524/226083512-425beb17-0f36-4a8d-87b6-f12a2344a283.png)
-![image](https://user-images.githubusercontent.com/69874524/226083523-1b9dcc76-ec48-4653-a5aa-27a8f34ac4f7.png)
-![image](https://user-images.githubusercontent.com/69874524/226083669-c4dc6c0d-f1b3-41a6-977d-d85fba77fc19.png)
-![image](https://user-images.githubusercontent.com/69874524/226083546-bf6e110f-92d4-4c00-8126-1acb1524bb9f.png)
-![image](https://user-images.githubusercontent.com/69874524/226083653-e61a0944-a51b-4e65-b7d5-f12f8b3a2392.png)
-![image](https://user-images.githubusercontent.com/69874524/226083581-a0090252-65fc-41a6-b5f3-93f5adbf92cd.png)
-![image](https://user-images.githubusercontent.com/69874524/226083560-1b7bfc53-f2cc-4203-8dce-cb3faf26d6e5.png)
-![image](https://user-images.githubusercontent.com/69874524/226083631-a8c5aa04-fbcc-4b63-812c-75d9bdf3e670.png)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KarenG19&theme=jolly&hide_border=true&include_all_commits=true&count_private=false)<br/>
+
