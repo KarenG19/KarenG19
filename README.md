@@ -5,7 +5,9 @@ Soy estudiante de décimo semestre de Ingeniería en Sistemas y Computación, me
 
 
 ## :globe_with_meridians: Contacto
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:karen.grajales@utp.edu.co) 
+<a href="mailto:karen.grajales@utp.edu.co">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-grajales-6743631b8/) 
 
