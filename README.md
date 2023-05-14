@@ -1,15 +1,7 @@
 ## :information_desk_person: Acerca de mi
-Hola, soy Karen :wave:
+Hola, soy Karen. :wave:
 
-Soy estudiante de décimo semestre de Ingeniería en Sistemas y Computación, me interesa el desarrollo web frontend y actualmente estoy aprendiendo React.
-
-
-## :globe_with_meridians: Contacto
-<a href="mailto:karen.grajales@utp.edu.co">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-grajales-6743631b8/) 
+Soy estudiante de décimo semestre de ingeniería en sistemas y computación, me interesa el desarrollo web frontend y actualmente estoy aprendiendo React.
 
 
 ## :computer: Habilidades
